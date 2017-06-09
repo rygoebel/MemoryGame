@@ -27,14 +27,20 @@ SOURCES += main.cpp \
     mainwindow.cpp \
     game.cpp \
     chooseleveldialog.cpp \
-    board.cpp
+    board.cpp \
+    card.cpp \
+    score.cpp \
+    time.cpp
 
 HEADERS  += \
     mainwindow.h \
     game.h \
     chooseleveldialog.h \
     constants.h \
-    board.h
+    board.h \
+    card.h \
+    score.h \
+    time.h
 
 FORMS    += \
     mainwindow.ui \

@@ -1,5 +1,14 @@
 <RCC>
     <qresource prefix="/images">
         <file>menuBackground.jpg</file>
+        <file>card.jpg</file>
+        <file>face01.png</file>
+        <file>face02.png</file>
+        <file>face03.png</file>
+        <file>face04.png</file>
+        <file>face05.png</file>
+        <file>face06.png</file>
+        <file>face07.png</file>
+        <file>face08.png</file>
     </qresource>
 </RCC>
